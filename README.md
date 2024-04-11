@@ -18,7 +18,7 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/artimro/Netflix-Landing-Page/tree/main
+ https://github.com/artimro/Netflix-Landing-Page/tree/main
 ```
 2. Open the project in your preferred code editor.
 
